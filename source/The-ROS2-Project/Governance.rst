@@ -69,7 +69,7 @@ The ROS PMC currently consists of the following constituents:
      - `Sony <https://www.sony.com/>`_
      - `fujitatomoya <https://github.com/fujitatomoya>`_
      - Member
-     - PST (UTC-8)/PDT (UTC-7)
+     - JST (UTC+9)
    * - Marco A. Gutiérrez
      - `Intrinsic <https://www.intrinsic.ai/>`_
      - `marcoag <https://github.com/marcoag>`_
@@ -158,6 +158,10 @@ The ROS committers (who are not also part of the ROS PMC) consists of the follow
      - `eProsima <https://www.eprosima.com/>`_
      - `MiguelCompany <https://github.com/MiguelCompany>`_
      - CET (UTC+1)/CEST (UTC+2)
+   * - Skyler Medeiros
+     - `iRobot <https://www.irobot.com/>`_
+     - `skyegalaxy <https://github.com/skyegalaxy>`_
+     - PST (UTC-8)/PDT (UTC-7)
    * - Steve Peters
      - `Intrinsic <https://www.intrinsic.ai/>`_
      - `scpeters <https://github.com/scpeters>`_
